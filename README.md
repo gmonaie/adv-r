@@ -1,4 +1,4 @@
-# Advanced R programming
+# Advanced R programming [![Kite](https://usekite.com/live-demo-button.png)](undefined/deploy)
 
 This is code and text behind the [Advanced R programming](http://adv-r.had.co.nz)
 book. 
